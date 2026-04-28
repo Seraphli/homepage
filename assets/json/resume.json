@@ -24,10 +24,7 @@
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity",
-        "Description 2."
-      ]
+      "highlights": ["Relativity", "Description 2."]
     },
     {
       "name": "California Institute of Technology",
@@ -36,10 +33,7 @@
       "startDate": "1933-01-01",
       "endDate": "1933-01-01",
       "summary": "",
-      "highlights": [
-        "Description 1.",
-        "Description 2."
-      ]
+      "highlights": ["Description 1.", "Description 2."]
     },
     {
       "name": "Kaiser Wilhelm Institute for Physics",
@@ -77,10 +71,7 @@
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": [
-        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.",
-        "Men of the year 2014 by Time magazine"
-      ]
+      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
@@ -93,13 +84,8 @@
       "startDate": "1900-01-01",
       "endDate": "1905-01-01",
       "score": "",
-      "courses": [
-        "Theory of Relativity"
-      ],
-      "highlights": [
-        "Description 1.",
-        "Description 2."
-      ]
+      "courses": ["Theory of Relativity"],
+      "highlights": ["Description 1.", "Description 2."]
     },
     {
       "institution": "Eidgen\u00f6ssische Technische Hochschule",
@@ -110,10 +96,7 @@
       "endDate": "1900-01-01",
       "score": "",
       "courses": [],
-      "highlights": [
-        "Description 1.",
-        "Description 2."
-      ]
+      "highlights": ["Description 1.", "Description 2."]
     }
   ],
   "awards": [
@@ -231,10 +214,7 @@
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
-      ],
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01"
     }
